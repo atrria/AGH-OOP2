@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 /**
  * The lab04string abstract class provides methods for operating on Strings and chars.
  */
